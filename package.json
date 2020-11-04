@@ -1,6 +1,6 @@
 {
   "name": "eventsource",
-  "version": "1.0.7",
+  "version": "2.0.0-ggalpha",
   "description": "W3C compliant EventSource client for Node.js and browser (polyfill)",
   "keywords": [
     "eventsource",
@@ -21,6 +21,9 @@
   "directories": {
     "lib": "./lib"
   },
+  "files": [
+    "lib/"
+  ],
   "main": "./lib/eventsource",
   "license": "MIT",
   "licenses": [

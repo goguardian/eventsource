@@ -13,7 +13,7 @@
   "author": "Aslak Hellesøy <aslak.hellesoy@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/EventSource/eventsource.git"
+    "url": "git://github.com/goguardian/eventsource.git"
   },
   "bugs": {
     "url": "http://github.com/EventSource/eventsource/issues"
